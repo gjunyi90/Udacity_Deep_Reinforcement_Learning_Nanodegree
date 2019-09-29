@@ -6,7 +6,12 @@ This repository contains material related to Udacity's Deep Reinforcement Learni
 
 ![Trained Agents][image1]
 
-## Table of Contents
+## Projects
+### P1 - Navigation
+### P2 - Continuous Control
+### P3 - Collaboration and Competition
+
+## Lesson Contents
 
 * [Dynamic Programming](https://github.com/udacity/deep-reinforcement-learning/tree/master/dynamic-programming): Implement Dynamic Programming algorithms such as Policy Evaluation, Policy Improvement, Policy Iteration, and Value Iteration. 
 * [Monte Carlo](https://github.com/udacity/deep-reinforcement-learning/tree/master/monte-carlo): Implement Monte Carlo methods for prediction and control. 
@@ -23,9 +28,3 @@ This repository contains material related to Udacity's Deep Reinforcement Learni
   * [Pendulum](https://github.com/udacity/deep-reinforcement-learning/tree/master/ddpg-pendulum): Use OpenAI Gym's Pendulum environment.
   * [BipedalWalker](https://github.com/udacity/deep-reinforcement-learning/tree/master/ddpg-bipedal): Use OpenAI Gym's BipedalWalker environment.
 * [Finance](https://github.com/udacity/deep-reinforcement-learning/tree/master/finance): Train an agent to discover optimal trading strategies.
-
-
-## Projects
-### P1 - Navigation
-### P2 - Continuous Control
-### P3 - Collaboration and Competition
